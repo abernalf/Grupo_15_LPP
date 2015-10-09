@@ -1,1 +1,5 @@
 Trabajo en equipo con git
+
+Un compilador es un programa que permite traducir el codigo fuente de un programa en lenguaje de alto nivel mientras que la interpretacion es la realizacion de un paso intermedio entre el texto escrito y su significado.
+
+
